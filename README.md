@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Marwan</h1>
 <h3 align="center">A passionate computer engineer student from Egypt</h3>
 
-- 🌱 I’m currently learning **Swift**
+- 🌱 I’m currently interested in Backend development 
 
 - 🏠 Living in **Giza, Egypt**
 
