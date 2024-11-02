@@ -5,8 +5,8 @@
 
 ![image](https://github.com/user-attachments/assets/44bea09e-649b-43ca-be36-58c25da88ff7)
 
-- - 🌱 I’m currently interested in **Backend Development**
-  - 
+- 🌱 I’m currently interested in **Backend Development**
+   
 - 🏠 Living in **Giza, Egypt**
 
 - 📫 How to reach me **marwan.elzafarani@gmail.com**
