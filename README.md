@@ -5,6 +5,7 @@ Hi 👋 My name is Marwan Hazem
 </p>
 I’m a Software Engineer who loves to tinker with backend stuff and build things that (hopefully) make life easier. Right now, I’m into learning how servers work, creating APIs, and connecting all the backend dots. When I’m not coding, I’m probably exploring new tech tools or solving bugs I didn’t know I created 🐛💥 Let’s connect and maybe collaborate on something cool! ✌️
 <br><br>
+
 *   🌍  I'm based in Giza, Egypt
 *   ✉️  You can contact me at [marwan.elzafarani@gmail.com](mailto:marwan.elzafarani@gmail.com)
 *   🚀  I'm currently working on [DuckyCart](https://duckycart.me)
