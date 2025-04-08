@@ -1,0 +1,24 @@
+name: "Snake Game"
+
+on:
+  push:
+    branches:
+      - main
+      - master
+  pull_request:
+    branches:
+      - main
+      - master
+
+jobs:
+  update-snake:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v2
+
+    - name: Update Snake Game
+      uses: Platane/snk@v2
+      with:
+        github_token: ${{ secrets.GITHUB_TOKEN }}
