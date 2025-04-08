@@ -65,13 +65,9 @@ Let's connect and maybe build something awesome together! ✌️
 
 ---
 
-### GitHub Stats
-
-![Marwan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Zafaranii&show_icons=true&count_private=true&theme=radical)
-
 
 ### 🐍 Snake Contribution Graph
 
-![Snake](https://raw.githubusercontent.com/Zafaranii/Zafaranii/blob/output/github-contribution-grid-snake.svg)
+![Snake](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg)
 
 ---
