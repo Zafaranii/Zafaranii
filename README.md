@@ -69,13 +69,6 @@ Let's connect and maybe build something awesome together! ✌️
 
 ![Marwan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Zafaranii&show_icons=true&count_private=true&theme=radical)
 
----
-
-### Quote of the Day
-
-> "Code is like humor. When you have to explain it, it’s bad." — Cory House
-
----
 
 ### 🐍 Snake Contribution Graph
 
