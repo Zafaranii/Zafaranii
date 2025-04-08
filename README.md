@@ -68,6 +68,5 @@ Let's connect and maybe build something awesome together! ✌️
 
 ### 🐍 Snake Contribution Graph
 
-![Snake](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg)
-
+![Snake](https://raw.githubusercontent.com/Zafaranii/Zafaranii/blob/output/github-contribution-grid-snake.svg)
 ---
