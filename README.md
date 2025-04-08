@@ -39,6 +39,7 @@ Let's connect and maybe build something awesome together! ✌️
 <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/django-colored.svg" width="36" height="36" alt="Django" /></a>
 <a href="https://flutter.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flutter-colored.svg" width="36" height="36" alt="Flutter" /></a>
 <a href="https://www.digitalocean.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/digitalocean-colored.svg" width="36" height="36" alt="Digital Ocean" /></a>
+<a href="https://apple.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/macos-colored.svg" width="36" height="36" alt="MacOS" /></a>
 </p>
 
 ---
@@ -61,3 +62,23 @@ Let's connect and maybe build something awesome together! ✌️
     </picture>
   </a>
 </p>
+
+---
+
+### GitHub Stats
+
+![Marwan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Zafaranii&show_icons=true&count_private=true&theme=radical)
+
+---
+
+### Quote of the Day
+
+> "Code is like humor. When you have to explain it, it’s bad." — Cory House
+
+---
+
+### 🐍 Snake Contribution Graph
+
+![Snake](https://raw.githubusercontent.com/Zafaranii/Zafaranii/blob/output/github-contribution-grid-snake.svg)
+
+---
