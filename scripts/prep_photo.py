@@ -9,7 +9,7 @@ from pathlib import Path
 
 import cv2
 import numpy as np
-from PIL import Image
+from PIL import Image, ImageOps
 from rembg import remove
 
 ROOT = Path(__file__).resolve().parent.parent
@@ -34,7 +34,7 @@ def crop_to_subject(cutout: Image.Image, pad_frac: float = 0.08) -> Image.Image:
 
 
 def prep(src_path: Path) -> Image.Image:
-    raw = Image.open(src_path).convert("RGBA")
+    raw = ImageOps.exif_transpose(Image.open(src_path)).convert("RGBA")
 
     # 1. remove background -> RGBA with transparency where the subject isn't
     cutout = remove(raw)
