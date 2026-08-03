@@ -1,23 +1,4 @@
-# Hi 👋 My name is Marwan Hazem
-
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/44bea09e-649b-43ca-be36-58c25da88ff7" alt="banner" />
-</p>
-
-I'm a Software Engineer who loves diving deep into the backend world — building things that (hopefully) make life easier and more efficient.  
-Currently, I’m geeking out over how servers work, building APIs, and connecting all the backend dots.  
-When I’m not lost in code, I’m probably tinkering with new tech tools or debugging something that worked five minutes ago. 🐛💥  
-
-Let's connect and maybe build something awesome together! ✌️
-
----
-
 <div align="center">
-
-<h3><code>marwan@github ~ $ ./contributions.sh</code></h3>
-<img src="./contrib-heatmap.svg" width="800" />
-
-<br><br>
 
 <h3><code>marwan@github ~ $ whoami</code></h3>
 <table>
@@ -26,6 +7,15 @@ Let's connect and maybe build something awesome together! ✌️
     <td valign="top"><img src="./info-card.svg" width="470" /></td>
   </tr>
 </table>
+
+<br><br>
+
+<img src="./assets/source-photo.jpg" width="500" alt="Marwan Hazem" />
+
+<br><br>
+
+<h3><code>marwan@github ~ $ ./contributions.sh</code></h3>
+<img src="./contrib-heatmap.svg" width="800" />
 
 </div>
 
