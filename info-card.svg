@@ -1,0 +1,60 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 540 288" width="540" height="288" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace">
+
+  <style>
+    .row {
+      opacity: 0;
+      transform: translateX(-8px);
+      animation: typein 0.35s ease-out forwards;
+    }
+    @keyframes typein {
+      to { opacity: 1; transform: translateX(0); }
+    }
+  </style>
+
+<rect x="0" y="0" width="540" height="288" rx="8" fill="#0d1117" stroke="#30363d"/>
+<circle cx="20" cy="20" r="6" fill="#ff5f56"/>
+<circle cx="40" cy="20" r="6" fill="#ffbd2e"/>
+<circle cx="60" cy="20" r="6" fill="#27c93f"/>
+<text x="270.0" y="24" text-anchor="middle" font-size="12" fill="#8b949e">marwan@github ~ % neofetch</text>
+<line x1="0" y1="38" x2="540" y2="38" stroke="#21262d"/>
+<g class="row" style="animation-delay:0.00s">
+<text x="24" y="56" font-size="13" fill="#7ee787">Name</text>
+<text x="150" y="56" font-size="13" fill="#c9d1d9">Marwan Hazem</text>
+</g>
+<g class="row" style="animation-delay:0.12s">
+<text x="24" y="82" font-size="13" fill="#7ee787">Role</text>
+<text x="150" y="82" font-size="13" fill="#c9d1d9">Software Engineer, Backend</text>
+</g>
+<g class="row" style="animation-delay:0.24s">
+<text x="24" y="108" font-size="13" fill="#7ee787">Now</text>
+<text x="150" y="108" font-size="13" fill="#c9d1d9">Building APIs &amp; backend systems</text>
+</g>
+<g class="row" style="animation-delay:0.36s">
+<text x="24" y="134" font-size="13" fill="#7ee787">Prev</text>
+<text x="150" y="134" font-size="13" fill="#c9d1d9">Debugging what worked 5 minutes ago</text>
+</g>
+<g class="row" style="animation-delay:0.48s">
+<text x="24" y="160" font-size="13" fill="#7ee787">Stack</text>
+<text x="150" y="160" font-size="13" fill="#c9d1d9">Python · FastAPI · Django · Flask · .NET/C#</text>
+</g>
+<g class="row" style="animation-delay:0.60s">
+<text x="24" y="186" font-size="13" fill="#7ee787">Data</text>
+<text x="150" y="186" font-size="13" fill="#c9d1d9">MySQL · PostgreSQL · Firebase</text>
+</g>
+<g class="row" style="animation-delay:0.72s">
+<text x="24" y="212" font-size="13" fill="#7ee787">Highlights</text>
+<text x="150" y="212" font-size="13" fill="#c9d1d9">Building DuckyCart (duckycart.me)</text>
+</g>
+<g class="row" style="animation-delay:0.84s">
+<text x="24" y="238" font-size="13" fill="#7ee787">Location</text>
+<text x="150" y="238" font-size="13" fill="#c9d1d9">Giza, Egypt</text>
+</g>
+<rect x="24" y="272" width="14" height="10" rx="2" fill="#0d1117" stroke="#30363d" stroke-width="0.5"/>
+<rect x="42" y="272" width="14" height="10" rx="2" fill="#0e4429" stroke="#30363d" stroke-width="0.5"/>
+<rect x="60" y="272" width="14" height="10" rx="2" fill="#006d32" stroke="#30363d" stroke-width="0.5"/>
+<rect x="78" y="272" width="14" height="10" rx="2" fill="#26a641" stroke="#30363d" stroke-width="0.5"/>
+<rect x="96" y="272" width="14" height="10" rx="2" fill="#39d353" stroke="#30363d" stroke-width="0.5"/>
+<rect x="114" y="272" width="14" height="10" rx="2" fill="#69f0a0" stroke="#30363d" stroke-width="0.5"/>
+<rect x="132" y="272" width="14" height="10" rx="2" fill="#c9d1d9" stroke="#30363d" stroke-width="0.5"/>
+<rect x="150" y="272" width="14" height="10" rx="2" fill="#ffffff" stroke="#30363d" stroke-width="0.5"/>
+</svg>

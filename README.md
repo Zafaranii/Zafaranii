@@ -12,6 +12,25 @@ Let's connect and maybe build something awesome together! ✌️
 
 ---
 
+<div align="center">
+
+<h3><code>marwan@github ~ $ ./contributions.sh</code></h3>
+<img src="./contrib-heatmap.svg" width="800" />
+
+<br><br>
+
+<h3><code>marwan@github ~ $ whoami</code></h3>
+<table>
+  <tr>
+    <td valign="top"><img src="./avi-ascii.svg" width="330" /></td>
+    <td valign="top"><img src="./info-card.svg" width="470" /></td>
+  </tr>
+</table>
+
+</div>
+
+---
+
 ### 📍 About Me
 
 - 🌍 I'm based in **Giza, Egypt**
