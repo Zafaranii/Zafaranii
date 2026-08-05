@@ -8,11 +8,6 @@
   </tr>
 </table>
 
-<br><br>
-
-<img src="./assets/source-photo.jpg" width="500" alt="Marwan Hazem" />
-
-<br><br>
 
 <h3><code>marwan@github ~ $ ./contributions.sh</code></h3>
 <img src="./contrib-heatmap.svg" width="800" />
