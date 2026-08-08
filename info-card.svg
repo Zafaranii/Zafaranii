@@ -19,15 +19,15 @@
 <line x1="0" y1="38" x2="540" y2="38" stroke="#21262d"/>
 <g class="row" style="animation-delay:0.00s">
 <text x="24" y="56" font-size="13" fill="#7ee787">Name</text>
-<text x="150" y="56" font-size="13" fill="#c9d1d9">Marwan Hazem</text>
+<text x="150" y="56" font-size="13" fill="#c9d1d9">Marwan Elzafarani</text>
 </g>
 <g class="row" style="animation-delay:0.12s">
 <text x="24" y="82" font-size="13" fill="#7ee787">Role</text>
-<text x="150" y="82" font-size="13" fill="#c9d1d9">Software Engineer, Backend</text>
+<text x="150" y="82" font-size="13" fill="#c9d1d9">Software Engineer</text>
 </g>
 <g class="row" style="animation-delay:0.24s">
 <text x="24" y="108" font-size="13" fill="#7ee787">Now</text>
-<text x="150" y="108" font-size="13" fill="#c9d1d9">Building APIs &amp; backend systems</text>
+<text x="150" y="108" font-size="13" fill="#c9d1d9">Building APIs &amp; Integrating systems</text>
 </g>
 <g class="row" style="animation-delay:0.36s">
 <text x="24" y="134" font-size="13" fill="#7ee787">Prev</text>
@@ -35,19 +35,19 @@
 </g>
 <g class="row" style="animation-delay:0.48s">
 <text x="24" y="160" font-size="13" fill="#7ee787">Stack</text>
-<text x="150" y="160" font-size="13" fill="#c9d1d9">Python · FastAPI · Django · Flask · .NET/C#</text>
+<text x="150" y="160" font-size="13" fill="#c9d1d9">Nowadays Anything</text>
 </g>
 <g class="row" style="animation-delay:0.60s">
 <text x="24" y="186" font-size="13" fill="#7ee787">Data</text>
-<text x="150" y="186" font-size="13" fill="#c9d1d9">MySQL · PostgreSQL · Firebase</text>
+<text x="150" y="186" font-size="13" fill="#c9d1d9">Same as above</text>
 </g>
 <g class="row" style="animation-delay:0.72s">
 <text x="24" y="212" font-size="13" fill="#7ee787">Highlights</text>
-<text x="150" y="212" font-size="13" fill="#c9d1d9">Building DuckyCart (duckycart.me)</text>
+<text x="150" y="212" font-size="13" fill="#c9d1d9">Living</text>
 </g>
 <g class="row" style="animation-delay:0.84s">
 <text x="24" y="238" font-size="13" fill="#7ee787">Location</text>
-<text x="150" y="238" font-size="13" fill="#c9d1d9">Giza, Egypt</text>
+<text x="150" y="238" font-size="13" fill="#c9d1d9">Egypt</text>
 </g>
 <rect x="24" y="272" width="14" height="10" rx="2" fill="#0d1117" stroke="#30363d" stroke-width="0.5"/>
 <rect x="42" y="272" width="14" height="10" rx="2" fill="#0e4429" stroke="#30363d" stroke-width="0.5"/>
