@@ -8,6 +8,11 @@
   </tr>
 </table>
 
+<br><br>
+
+<img src="https://github.com/user-attachments/assets/44bea09e-649b-43ca-be36-58c25da88ff7" alt="banner" width="500" />
+
+<br><br>
 
 <h3><code>marwan@github ~ $ ./contributions.sh</code></h3>
 <img src="./contrib-heatmap.svg" width="800" />
